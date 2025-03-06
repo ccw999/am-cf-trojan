@@ -1,5 +1,5 @@
-193.122.122.16
-193.122.101.195
-www.visa.com.mt
-usa.visa.com
-172.64.40.223
+https://raw.githubusercontent.com/ccw999/am-cf-tunnel/refs/heads/main/ipHK.txt
+https://raw.githubusercontent.com/ccw999/am-cf-tunnel/refs/heads/main/ipJP.txt
+https://raw.githubusercontent.com/ccw999/am-cf-tunnel/refs/heads/main/ipUS.txt
+https://raw.githubusercontent.com/ccw999/am-cf-tunnel/main/ipv4.csv
+
