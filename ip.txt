@@ -4,7 +4,6 @@ ip.sb
 japan.com
 russia.com
 shopify.com
-time.cloudflare.com
 whatismyipaddress.com
 www.baipiao.eu.org
 www.boba88slot.com
@@ -12,7 +11,6 @@ www.gov.se
 www.gov.ua
 www.iakeys.com
 www.ipget.net
-www.sean-now.com
 www.shopify.com
 www.udemy.com
 www.visa.co.jp
