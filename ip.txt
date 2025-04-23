@@ -19,12 +19,12 @@
 143.47.240.5:443#UK
 
 
-www.visa.com.br:2087
-www.visaeurope.ch:2083
-www.visa.com.tw:2053
-myanmar.visa.com:8443
+www.visa.com.br
+www.visaeurope.ch
+www.visa.com.tw
+myanmar.visa.com
 usa.visa.com
-www.visasoutheasteurope.com:2096
+www.visasoutheasteurope.com
 whatismyipaddress.com
 japan.com
 www.gov.se
