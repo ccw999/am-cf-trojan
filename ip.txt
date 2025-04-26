@@ -62,6 +62,7 @@ dylan.ns.cloudflare.com
 #www.udacity.com
 #www.digitalocean.com
 #damien.ns.cloudflare.com
+[2606:4700:0:3a6a:921:442e:c6fe:5b80]#IPV6
 [2606:4700:3036:6ed4:ffdf:f2ba:820b:ed5c]#IPV6
 [2606:4700:9b08:7ce1:8882:ba8c:2880:c619]#IPV6
 [2606:4700:9b08:dd59:154f:abf8:46b5:25bb]#IPV6
